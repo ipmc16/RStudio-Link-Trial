@@ -1,2 +1,2 @@
-print("Hi hatdog")
-print("Isa kang hatdog")
+print("Hi, my name is Ivan Perry")
+print("I am from Nueva Ecija")
